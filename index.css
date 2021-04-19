@@ -48,3 +48,24 @@ footer{
     justify-content: space-between;
     margin-top: 3rem;
 }
+.responsive{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.responsive p{
+    font-size: 15px;
+}
+@media (max-width:480px){
+    .responsive p{
+        font-size: 25px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}
+@media (max-width:1024px){
+    .responsive p{
+        font-size: 20px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+}

@@ -1,0 +1,88 @@
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.exe
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.deps.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.dev.json
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.pdb
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.Views.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\Final.Views.pdb
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shado\Final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.csprojAssemblyReference.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.csproj.CoreCompileInputs.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.RazorAssemblyInfo.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.RazorAssemblyInfo.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.TagHelpers.input.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.TagHelpers.output.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.RazorCoreGenerate.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.RazorTargetAssemblyInfo.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.RazorTargetAssemblyInfo.cs
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.Views.pdb
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.csproj.CopyComplete
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\staticwebassets\Final.StaticWebAssets.Manifest.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\staticwebassets\Final.StaticWebAssets.xml
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.dll
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.pdb
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Final.genruntimeconfig.cache
+C:\Users\Shado\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\login.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.exe
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.deps.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.runtimeconfig.dev.json
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.pdb
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.Views.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\Final.Views.pdb
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\analisis y diseño\Final\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.csprojAssemblyReference.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfoInputs.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.AssemblyInfo.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.csproj.CoreCompileInputs.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.RazorAssemblyInfo.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.RazorAssemblyInfo.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.TagHelpers.input.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.TagHelpers.output.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.RazorCoreGenerate.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\login.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.RazorTargetAssemblyInfo.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.RazorTargetAssemblyInfo.cs
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.Views.pdb
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.csproj.CopyComplete
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\staticwebassets\Final.StaticWebAssets.Manifest.cache
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\staticwebassets\Final.StaticWebAssets.xml
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.dll
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.pdb
+D:\Documentos\analisis y diseño\Final\obj\Debug\netcoreapp3.1\Final.genruntimeconfig.cache

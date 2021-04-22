@@ -1,0 +1,79 @@
+﻿html {
+  box-sizing: border-box;
+  font-size: 62.5%; /**hace que 1 rem sea igual a 10px**/
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+  margin: 1rem;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightgray;
+  font-size: 1.5rem;
+}
+.table1{
+  margin: 2rem;
+}
+.carrusel{
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  margin-bottom: 2rem;
+}
+.boton{
+  display: flex;
+  background-color: rgb(52,58,64);
+  justify-content: space-around;
+  border: 5px solid #323670;
+  border-radius: 4rem;
+  margin-left: 40rem;
+  margin-right: 40rem;
+  color: white;
+}
+.boton svg{
+  margin-right: .5rem;
+  height: 30px;
+  width: 30px;
+  fill: white;
+
+}
+.boton :hover{
+  background-color: black;
+  cursor: pointer;
+  padding: 3rem;
+}
+.pharagrap{
+  text-align: center;
+}
+.footer img{
+  height: 1rem;
+  width: 1rem;
+}
+.footer{
+  display: flex;
+  border-top:  5px solid blue;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+.parrafos{
+  display: flex;
+  justify-content: space-evenly;
+  margin: 3rem;
+  font-size: 1rem;
+  flex-direction: row;
+}
+.parrafos p{
+  margin:3rem
+}
+@media (max-width: 768px) {
+    .parrafos{
+      flex-direction: column;
+      color: red;
+      font-size: 1.5rem;
+
+    }
+}
